@@ -1,1 +1,1 @@
-# Statistics Bootcamp Day-1 
+# Statistics Bootcamp Day-1 material 
